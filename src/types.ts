@@ -1,5 +1,5 @@
 /** Valid languages to translate */
-export type Lang = 'es' | 'en'
+export type Lang = 'es' | 'en' | 'it'
 
 /** Interface of a default translation value */
 export interface DefaultTranslateObject {
