@@ -224,7 +224,7 @@ const it = ['it', {
         },
         "auth/user-not-found": {
             toDev: "There is no existing user record corresponding to the provided identifier.",
-            toClient: "Utente non trovato."
+            toClient: "Utente non trovato, controlla i dati inseriti"
         },
     }];
 exports.default = it;

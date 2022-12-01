@@ -14,7 +14,6 @@ const it:TranslateDictionary = ['it', {
     "auth/email-already-exists": {
         toDev: "The provided email is already in use by an existing user. Each user must have a unique email.",
         toClient: "Questo indirizzo email è già in uso, registrati con un'altra email per favore"
-
     },
     "auth/id-token-expired": {
         toDev: "The provided Firebase ID token is expired.",
@@ -226,7 +225,7 @@ const it:TranslateDictionary = ['it', {
     },
     "auth/user-not-found": {
         toDev: "There is no existing user record corresponding to the provided identifier.",
-        toClient: "Utente non trovato."
+        toClient: "Utente non trovato, controlla i dati inseriti"
     },
 }]
 
