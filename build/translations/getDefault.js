@@ -9,6 +9,10 @@ const defaultTranslations = {
     es: {
         classMessage: 'Error Inesperado.',
         defaultReplaceable: 'Error del Servidor.'
+    },
+    it: {
+        classMessage: 'Error Inaspettato.',
+        defaultReplaceable: 'Error del Server.'
     }
 };
 function getDefault(lang) {

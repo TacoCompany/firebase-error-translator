@@ -1,3 +1,4 @@
 import en from "./en";
 import es from "./es";
-export { es as AuthES, en as AuthEN };
+import it from "./it";
+export { es as AuthES, en as AuthEN, it as AuthIT };
